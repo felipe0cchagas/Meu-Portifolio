@@ -56,7 +56,7 @@ p{
     font-size: 35px;
 }
 
-img{
+.image{
     margin-top: -190px;
 }
 
@@ -79,4 +79,23 @@ margin-left: 20px;
 hr{
     margin-top: 130px;
     background: white;
+}
+
+.edit .sb{
+    margin-top: 120px;
+    font-size: 60px;
+    margin-left: 60vh;
+}
+
+.info{
+    margin-top: 80px;
+    float: inline-end;
+   margin-right: 210px;
+   margin-left: -80px;
+    
+}
+
+.image2{
+    padding-top: 80px;
+    margin-left: 250px;
 }
